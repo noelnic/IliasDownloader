@@ -1,0 +1,3 @@
+# .gitignore file to ignore all secrets in the given folder
+IliasDownloader_v02.exe
+**/IliasDownloader_v02.exe
