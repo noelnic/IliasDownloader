@@ -28,6 +28,7 @@ Willkommen zu deinem ILIAS-Download-Tool
 - Wenn du keinen Ordnernamen angibst, wird bspw. Sommer 2025 als Ordnername verwendet.
     
 ![Alt-Text](images/Kurse_2.PNG)
+![Alt-Text](images/IliasbspBenennung.PNG)
 
   - Getestet auf Windows.
 
